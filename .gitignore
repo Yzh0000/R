@@ -1,4 +1,7 @@
+#R
 *.Rdata
 *.Rhistory
 *.Rapp.history
+#hdf5
+*.h5
 data/
